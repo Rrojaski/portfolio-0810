@@ -1,0 +1,15 @@
+@media screen and (max-width: 767px) {
+  .hero-color {
+    background: transparent !important;
+  }
+}
+.hero-color {
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    transparent 25%,
+    transparent 60%,
+    #ffb637 60%,
+    #ffb637 100%
+  );
+}
